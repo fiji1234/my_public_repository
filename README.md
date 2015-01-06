@@ -1,4 +1,4 @@
 my_public_repository
 ====================
 
-Fiji1234's Public Repository
+This is my very first Public Repository
